@@ -14,16 +14,19 @@ A web application to browse and manage a collection of books. Users can search, 
 
 ### List View
 
-![List View](https://via.placeholder.com/800x400?text=List+View+Screenshot)
+![image](https://github.com/user-attachments/assets/55ca4b98-af75-4279-8d7f-64004392658f)
+
 
 ### Grid View
 
-![Grid View](https://via.placeholder.com/800x400?text=Grid+View+Screenshot)
+![image](https://github.com/user-attachments/assets/898489d1-75ad-4e34-b2b8-1cd341a59de6)
+
 
 ### Search and Sort
 
-![Search and Sort](https://via.placeholder.com/800x400?text=Search+and+Sort+Screenshot)
+![image](https://github.com/user-attachments/assets/4202e08b-786e-4982-879c-7d28c50e53be)
+
 
 ## Deployment
 
-You can access the live application here: [Book Library Deployment](https://your-deployment-link.com)
+You can access the live application here: [Book Library Deployment]([https://your-deployment-link.com](https://my-books-liard.vercel.app/))
